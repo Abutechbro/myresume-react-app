@@ -26,7 +26,7 @@ class home extends Component {
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Highly driven web developer and graphic designer seeking a full-time position in IT related fields where I can lend my knowledge of web developer and graphic to help your organization improve profitability.
+          <p>Highly driven web developer and graphic designer seeking a full-time position in IT related fields where I can lend my knowledge of Web Development and Graphic to help your organization improve profitability.
 
             Motivated team player and mobile developer with proven communications and good digital marketing skills seeking to grow my knowledge of the IT industry and use my skills to bring growth to the organization
 </p>
@@ -56,7 +56,7 @@ class home extends Component {
               </div>
             </div>
             <p>
-              Ready to Give our my very best.
+              Ready to give you my(our) very best.
             </p>
           </div>
         </div>
@@ -207,7 +207,7 @@ class home extends Component {
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Graphics Designing &amp; Desktop Publisihing</h4>
+              <h4>Graphics Designing &amp; Desktop Publishing</h4>
               <h5>2017 - 2021</h5>
               <p><em>Brainiac Computer Hub</em></p>
               <p>Ota Ogun State, Nigeria</p>

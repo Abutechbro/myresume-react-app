@@ -6,7 +6,7 @@ class Header extends Component {
 
         return (
             <div>
-                  <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+      <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 <header id="header" class="d-flex flex-column justify-content-center">
 
 <nav id="navbar" class="navbar nav-menu">
