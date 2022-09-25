@@ -9,7 +9,7 @@ class Footer extends Component {
                  <footer id="footer">
     <div class="container">
       <h3>AbUtEcH bRo</h3>
-      <p>A Passiona Personnel</p>
+      <p>A Passionate Personnel</p>
       <div class="social-links">
         <a href="https://twitter.com/AbUtEcH_bRo" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="https://instagram.com/AbUtEcH_bRo" class="instagram"><i class="bx bxl-instagram"></i></a>
