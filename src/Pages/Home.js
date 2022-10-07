@@ -34,7 +34,7 @@ class home extends Component {
 
         <div class="row">
           <div class="col-lg-4">
-            <img src="assets/img/profile-img.jpg" class="img-fluid" alt=""/>
+            <img src="assets/img/profile-img.jpeg" class="img-fluid" alt=""/>
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
             <h3>Web Designer, Graphics Designer &amp; Web Developer.</h3>
