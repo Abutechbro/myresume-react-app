@@ -10,7 +10,7 @@ class home extends Component {
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
       <h1>AbUtEcH bRo</h1>
       <p>Abubakry Ajibola Idris</p>
-      <p>A Web Developer, Web Designer, UiUx Designer &amp; Graphics Designer. </p>
+      <p>A Web/Software Developer, Web Designer, UiUx Designer &amp; Graphics Designer. </p>
       <div class="social-links">
         <a href="https://twitter.com/AbUtEcH_bRo" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="https://instagram.com/AbUtEcH_bRo" class="instagram"><i class="bx bxl-instagram"></i></a>
@@ -26,7 +26,7 @@ class home extends Component {
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Highly driven Web developer and graphic designer seeking a full-time position in IT related fields where I can lend my knowledge of Web Development and Graphic to help your organization improve profitability.
+          <p>Highly driven Web/Software Developer and graphic designer seeking a full-time position in IT related fields where I can lend my knowledge of Web Development and Graphic to help your organization improve profitability.
 
             Motivated team player and mobile developer with proven communications and good digital marketing skills seeking to grow my knowledge of the IT industry and use my skills to bring growth to the organization
 </p>
@@ -37,7 +37,7 @@ class home extends Component {
             <img src="assets/img/profile-img.jpeg" class="img-fluid" alt=""/>
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>Web Developer, Web Designer, UiUx Designer &amp; Graphics Designer.</h3>
+            <h3>Web/Software Developer, Web Designer, UiUx Designer &amp; Graphics Designer.</h3>
             <p class="fst-italic">
               Learn little more about me.
             </p>
@@ -238,7 +238,7 @@ class home extends Component {
             </div>
 
             <div class="resume-item">
-              <h4>Web Developer(Full Stack), Web Designer(WordPress) &amp; Graphics Designer.</h4>
+              <h4>Web/Software Developer(Full Stack), Web Designer(WordPress) &amp; Graphics Designer.</h4>
               <p><em>Abutechnology Digital Hub, Ota Nigeria</em></p>
               <ul>
                 <li>Lead in the design, development, and implementation of the UiUx, layout, and production communication Websites</li>
