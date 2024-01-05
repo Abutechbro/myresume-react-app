@@ -26,7 +26,7 @@ class home extends Component {
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Highly driven web developer and graphic designer seeking a full-time position in IT related fields where I can lend my knowledge of Web Development and Graphic to help your organization improve profitability.
+          <p>Highly driven Web developer and graphic designer seeking a full-time position in IT related fields where I can lend my knowledge of Web Development and Graphic to help your organization improve profitability.
 
             Motivated team player and mobile developer with proven communications and good digital marketing skills seeking to grow my knowledge of the IT industry and use my skills to bring growth to the organization
 </p>
