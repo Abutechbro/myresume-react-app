@@ -37,7 +37,7 @@ class home extends Component {
             <img src="assets/img/profile-img.jpeg" class="img-fluid" alt=""/>
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>Web Designer, Graphics Designer &amp; Web Developer.</h3>
+            <h3>Web Developer, Web Designer, UiUx Designer &amp; Graphics Designer.</h3>
             <p class="fst-italic">
               Learn little more about me.
             </p>
@@ -55,9 +55,6 @@ class home extends Component {
                 </ul>
               </div>
             </div>
-            <p>
-              Ready to give you my(our) very best.
-            </p>
           </div>
         </div>
 
@@ -177,6 +174,13 @@ class home extends Component {
               </div>
             </div>
 
+            <div class="progress">
+              <span class="skill">Figma<i class="val">80%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
           </div>
 
         </div>
@@ -207,38 +211,38 @@ class home extends Component {
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Graphics Designing &amp; Desktop Publishing</h4>
-              <h5>2017 - 2021</h5>
+              <h4>Graphics Designing, Web Designing(WordPress) &amp; Desktop Publishing</h4>
+              <h5>2017 - 2020</h5>
               <p><em>Brainiac Computer Hub</em></p>
               <p>Ota Ogun State, Nigeria</p>
             </div>
             <div class="resume-item">
-              <h4>Responsive Web Development</h4>
-              <h5>2020 - 2021</h5>
+              <h4>Full Stack Web Development</h4>
+              <h5>2020 - 2022</h5>
               <p><em>Aptech Computer Education</em></p>
               <p>Ota, Nigeria</p>
             </div>
           </div>
           <div class="col-lg-6">
             <h3 class="resume-title">Professional Experience</h3>
-            <div class="resume-item">
-              <h4>Web Developer &amp; Web Designer</h4>
-              <h5>2018 - Present</h5>
-              <p><em>Abutechnology Digital Hub, Ota Nigeria</em></p>
-              <ul>
-                <li>Lead in the design, development, and implementation of the UiUx, layout, and production communication Websites</li>
-                <li>Delegate tasks to the  members of the development team and provide counsel on all aspects of the project. </li>
-              </ul>
-            </div>
+
             <div class="resume-item">
               <h4>Computer Operator/Graphics Designer</h4>
-              <h5>2017 - 2018</h5>
               <p><em>Brainiac Global Services, Sango Ota, Nigeria</em></p>
               <ul>
                 <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
                 <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
                 <li>Recommended and consulted with clients on the most appropriate graphic design</li>
                 <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+              </ul>
+            </div>
+
+            <div class="resume-item">
+              <h4>Web Developer(Full Stack), Web Designer(WordPress) &amp; Graphics Designer.</h4>
+              <p><em>Abutechnology Digital Hub, Ota Nigeria</em></p>
+              <ul>
+                <li>Lead in the design, development, and implementation of the UiUx, layout, and production communication Websites</li>
+                <li>Delegate tasks to the  members of the development team and provide counsel on all aspects of the project. </li>
               </ul>
             </div>
           </div>
